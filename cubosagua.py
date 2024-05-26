@@ -1,5 +1,7 @@
 import sys
-
+'''
+..include:: ../documentacion.md
+'''
 
 class juegoCubos:
     """
